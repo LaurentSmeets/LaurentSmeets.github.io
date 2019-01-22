@@ -3,12 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://LaurentSmeets.github.io/projects/creations/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://LaurentSmeets.github.io/tutorials/</loc>
     <lastmod>2018-08-03T12:41:05-05:00</lastmod>
     <priority>0.5</priority>
@@ -17,21 +11,6 @@
   <url>
     <loc>https://LaurentSmeets.github.io/projects/contributions/</loc>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/projects/contributions/deploy-triggers/</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/projects/contributions/shields-docker/</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/projects/contributions/schema-org/</loc>
-    <priority>0.8</priority>
   </url>
   
   <url>
@@ -50,40 +29,13 @@
   </url>
   
   <url>
-    <loc>https://LaurentSmeets.github.io/projects/creations/bosh-agents/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://LaurentSmeets.github.io/</loc>
     <lastmod>2018-02-10T18:56:13-05:00</lastmod>
     <priority>1</priority>
   </url>
   
   <url>
-    <loc>https://LaurentSmeets.github.io/tags/atlassian-developer-ecosystem/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/atlassian-ecosystem/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/projects/creations/marketplace/</loc>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/bamboo/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/bash-shell/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://LaurentSmeets.github.io/hello/</loc>
   </url>
   
   <url>
@@ -93,86 +45,13 @@
   </url>
   
   <url>
-    <loc>https://LaurentSmeets.github.io/tags/bitbucket/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/bosh/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://LaurentSmeets.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/confluence/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/devops/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/docker/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/projects/creations/docker-marketplace/</loc>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/java/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/javascript/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/jira/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/jquery/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/json/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/maven/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/monit/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://LaurentSmeets.github.io/tags/mplus/</loc>
     <lastmod>2018-08-03T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/node.js/</loc>
     <priority>0</priority>
   </url>
   
@@ -188,42 +67,19 @@
   </url>
   
   <url>
-    <loc>https://LaurentSmeets.github.io/tags/python/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/rest-apis/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://LaurentSmeets.github.io/search/</loc>
     <priority>0.1</priority>
   </url>
   
   <url>
-    <loc>https://LaurentSmeets.github.io/tags/spring/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://LaurentSmeets.github.io/tags/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+    <lastmod>2018-08-03T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://LaurentSmeets.github.io/tags/tutorial/</loc>
     <lastmod>2018-08-03T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://LaurentSmeets.github.io/tags/xml-xslt/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
