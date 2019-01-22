@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://LaurentSmeets.github.io/tutorials/</loc>
-    <lastmod>2018-08-03T12:41:05-05:00</lastmod>
+    <lastmod>2019-01-20T12:41:05-05:00</lastmod>
     <priority>0.5</priority>
   </url>
   
@@ -14,17 +14,72 @@
   </url>
   
   <url>
-    <loc>https://LaurentSmeets.github.io/tutorials/mplus-regression-bayesian/</loc>
-    <lastmod>2018-08-03T12:41:05-05:00</lastmod>
+    <loc>https://LaurentSmeets.github.io/tutorials/blavaan-regression-stan/</loc>
+    <lastmod>2019-01-20T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tutorials/blavaan-wambs-stan/</loc>
+    <lastmod>2019-01-20T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tutorials/blavaan-regression-jags/</loc>
+    <lastmod>2018-11-03T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/projects/pps/</loc>
+    <lastmod>2018-11-03T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tutorials/lavaan-regression/</loc>
+    <lastmod>2018-11-03T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tutorials/blavaan-wambs-jags/</loc>
+    <lastmod>2018-11-03T12:41:05-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://LaurentSmeets.github.io/tutorials/mplus-wambs/</loc>
-    <lastmod>2018-08-03T12:41:05-05:00</lastmod>
+    <lastmod>2018-11-03T12:41:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://LaurentSmeets.github.io/projects/getthistowork/</loc>
+    <loc>https://LaurentSmeets.github.io/tutorials/brms-wambs/</loc>
+    <lastmod>2018-09-06T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tutorials/brms-priors/</loc>
+    <lastmod>2018-09-06T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tutorials/brms-how-to-get-started/</loc>
+    <lastmod>2018-09-06T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tutorials/lme4-how-to-get-started/</loc>
+    <lastmod>2018-09-06T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tutorials/hlm7-how-to-get-started/</loc>
+    <lastmod>2018-09-05T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tutorials/mplus-multilevel-how-to-get-started/</loc>
+    <lastmod>2018-09-05T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tutorials/mplus-regression-bayesian/</loc>
     <lastmod>2018-08-03T12:41:05-05:00</lastmod>
   </url>
   
@@ -40,7 +95,19 @@
   
   <url>
     <loc>https://LaurentSmeets.github.io/tags/bayesian/</loc>
-    <lastmod>2018-08-03T12:41:05-05:00</lastmod>
+    <lastmod>2019-01-20T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tags/blavaan/</loc>
+    <lastmod>2019-01-20T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tags/brms/</loc>
+    <lastmod>2018-09-06T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -50,14 +117,38 @@
   </url>
   
   <url>
+    <loc>https://LaurentSmeets.github.io/tags/hlm/</loc>
+    <lastmod>2018-09-05T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tags/jags/</loc>
+    <lastmod>2018-11-03T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tags/lavaan/</loc>
+    <lastmod>2018-11-03T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://LaurentSmeets.github.io/tags/mplus/</loc>
-    <lastmod>2018-08-03T12:41:05-05:00</lastmod>
+    <lastmod>2018-11-03T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tags/multilevel/</loc>
+    <lastmod>2018-09-06T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://LaurentSmeets.github.io/projects/</loc>
-    <lastmod>2018-08-03T12:41:05-05:00</lastmod>
+    <lastmod>2018-11-03T12:41:05-05:00</lastmod>
     <priority>0.9</priority>
   </url>
   
@@ -67,19 +158,37 @@
   </url>
   
   <url>
+    <loc>https://LaurentSmeets.github.io/tags/r-shiny/</loc>
+    <lastmod>2018-11-03T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://LaurentSmeets.github.io/search/</loc>
     <priority>0.1</priority>
   </url>
   
   <url>
+    <loc>https://LaurentSmeets.github.io/tags/stan/</loc>
+    <lastmod>2019-01-20T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://LaurentSmeets.github.io/tags/</loc>
-    <lastmod>2018-08-03T12:41:05-05:00</lastmod>
+    <lastmod>2019-01-20T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://LaurentSmeets.github.io/tags/tutorial/</loc>
-    <lastmod>2018-08-03T12:41:05-05:00</lastmod>
+    <lastmod>2019-01-20T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tags/wambs/</loc>
+    <lastmod>2019-01-20T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
