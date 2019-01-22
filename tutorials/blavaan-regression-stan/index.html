@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Projects</title>
-  <meta property="og:title" content="Projects" />
+  <title>Bayesian Regression in Blavaan (Using Stan)</title>
+  <meta property="og:title" content="Bayesian Regression in Blavaan (Using Stan)" />
   <meta property="og:image" content="https://LaurentSmeets.github.io/img/DSC_0109a%20-%20kopie_edited.jpg" />
   <meta name="description" content="">
   <meta property="og:description" content="" />
@@ -88,13 +88,20 @@
 
 
 
+
+
 <li class="breadcrumb-item">
   <a href="https://LaurentSmeets.github.io/">Home</a>
 </li>
 
 
+<li class="breadcrumb-item">
+  <a href="https://LaurentSmeets.github.io/tutorials/">Tutorials</a>
+</li>
+
+
 <li class="breadcrumb-item active">
-  <a href="https://LaurentSmeets.github.io/projects/">Projects</a>
+  <a href="https://LaurentSmeets.github.io/tutorials/blavaan-regression-stan/">Bayesian Regression in Blavaan (Using Stan)</a>
 </li>
 
   </ol>
@@ -103,42 +110,31 @@
 
 
 
-<section class="resume-section p-3 p-lg-5 d-flex flex-column">
-  <div class="my-auto" id="projects-content">
-    <h1 id="projects">Projects</h1>
-    <p><p>This is a selection of the statistics tutorials and data science projects I worked on.</p>
-</p>
+<section class="resume-section p-3 p-lg-5 d-flex d-column content">
+  <div class="my-auto">
+    <h2 class="mb-0"><span class="text-primary">Bayesian Regression in Blavaan (Using Stan)</span></h2>
+    <p><a href="https://www.rensvandeschoot.com/bayesian-regression-in-blavaan-using-stan/">Link to full </a></p>
     
-        
-<h3 class="mb-3"><a href="https://LaurentSmeets.github.io/projects/pps/">Plausible Parameter Space, a R Shiny App</a></h3>
-<div class="resume-item d-flex flex-column flex-md-row mb-3">
+    <p>his tutorial provides the reader with a basic tutorial how to perform a <strong>Bayesian regression</strong> in <a href="https://faculty.missouri.edu/~merklee/blavaan/">Blavaan</a>,  using Stan instead of Jags as a MCMC sampler. You can find the Blavaan Jags tutorial <a href="tutorials/blavaan-regression-jags">here</a>. We will not delve into the the differences between Stan and Jags here (a technical explanation can be found <a href="http://www.jmlr.org/papers/volume15/hoffman14a/hoffman14a.pdf">here</a> and a more accessible blog post <a href="https://statmodeling.stat.columbia.edu/2017/11/30/not-compare-speed-stan-something-else/">here</a>). For now it suffices to say that Stan is more efficient, especially for complex models. While using Blavaan the biggest difference is how you specify the priors. Instead of using a variance, as in Jags, Stan uses standard deviations.</p>
 
-  <div class="resume-content " style="max-width:200px;!important;">
+<p>Throughout this tutorial, the reader will be guided through importing data files, exploring summary statistics and regression analyses. Here, we will exclusively focus on <a href="https://www.rensvandeschoot.com/a-gentle-introduction-to-bayesian-analysis-applications-to-developmental-research/">Bayesian</a> statistics.</p>
+
+<p>In this tutorial, we start by using the default prior settings of the software.  In a second step, we will apply user-specified priors, and if you really want to use Bayes for your own data, we recommend to follow the <a href="https://www.rensvandeschoot.com/wambs-checklist/">WAMBS-checklist</a>, also available in other software.</p>
+
+    <p class="mt-3">
+    <ul class="tags">
     
-  </div>
-  <div class="resume-date">
-    <p>This Shiny App is designed to help users define their priors in a linear regression with two regression coefficients. Users are asked to specify their plausible parameter space and their expected prior means and uncertainty around these means.<p>
-    <p class><a href="https://LaurentSmeets.github.io/projects/pps/">Read more..</a></p>
-  </div>
-</div>
-<div><ul class="tags">
-    
-      <li><a class="tag" href="/tags/r-shiny">R shiny</a></li>
+      <li><a class="tag" href="/tags/blavaan">Blavaan</a></li>
     
       <li><a class="tag" href="/tags/tutorial">tutorial</a></li>
     
       <li><a class="tag" href="/tags/bayesian">Bayesian</a></li>
     
+      <li><a class="tag" href="/tags/stan">Stan</a></li>
+    
 </ul>
-</div>
 
-    
-    
-      <h2 id="open-source-contributions"><a href="https://LaurentSmeets.github.io/projects/contributions/">Open Source Contributions</a></h2>
-      <p><p>A collection of efforts to which I contributed, but did not create. Contributing back to Open Source projects is a strong passion of mine, and requires a considerate approach to learn norms, standards and approach for each community for a successful merge!</p>
-</p>
-      
-    
+    </p>
   </div>
 </section>
 
