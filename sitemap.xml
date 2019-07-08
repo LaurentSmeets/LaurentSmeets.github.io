@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://LaurentSmeets.github.io/publications/visited_countries/</loc>
+    <lastmod>2019-01-03T23:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://LaurentSmeets.github.io/tutorials/blavaan-regression-jags/</loc>
     <lastmod>2018-11-03T12:41:05-05:00</lastmod>
   </url>
@@ -141,6 +146,12 @@
   </url>
   
   <url>
+    <loc>https://LaurentSmeets.github.io/tags/plot/</loc>
+    <lastmod>2019-01-03T23:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://LaurentSmeets.github.io/projects/</loc>
     <lastmod>2018-11-03T12:41:05-05:00</lastmod>
     <priority>0.9</priority>
@@ -148,7 +159,14 @@
   
   <url>
     <loc>https://LaurentSmeets.github.io/publications/</loc>
+    <lastmod>2019-01-03T23:41:05-05:00</lastmod>
     <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tags/r/</loc>
+    <lastmod>2019-01-03T23:41:05-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -171,6 +189,12 @@
   <url>
     <loc>https://LaurentSmeets.github.io/tags/</loc>
     <lastmod>2019-01-20T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://LaurentSmeets.github.io/tags/travel/</loc>
+    <lastmod>2019-01-03T23:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   

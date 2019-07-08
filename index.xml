@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Countries Visited Animated GIF</title>
+      <link>https://LaurentSmeets.github.io/publications/visited_countries/</link>
+      <pubDate>Thu, 03 Jan 2019 23:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/publications/visited_countries/</guid>
+      <description>Introduction Since I am planning on using some gg_animate gifs for my thesis, it seemed like a good idea to start with a small project. This gif shows the countries I have visited thus far in order (or so I think, I haven&amp;rsquo;t gone through the photo albums yet). A lot of the code was inspired by this Github page. However, I did use the latest gg_animate grammar. Countries that I visited more than once, only show up the first time I visited them.</description>
+    </item>
+    
+    <item>
       <title>Bayesian Regression in Blavaan (Using Jags)</title>
       <link>https://LaurentSmeets.github.io/tutorials/blavaan-regression-jags/</link>
       <pubDate>Sat, 03 Nov 2018 12:41:05 -0500</pubDate>
