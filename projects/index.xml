@@ -6,10 +6,19 @@
     <description>Recent content in Projects on Laurent Smeets</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Nov 2018 12:41:05 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 12:41:05 -0500</lastBuildDate>
     
 	<atom:link href="https://LaurentSmeets.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Transport mode prediction from GPS data</title>
+      <link>https://LaurentSmeets.github.io/projects/tranport-mode-prediction-from-gps-data/</link>
+      <pubDate>Mon, 01 Jul 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/projects/tranport-mode-prediction-from-gps-data/</guid>
+      <description>For my Master&amp;rsquo;s thesis I worked on machine learning solutions to transport mode prediction from GPS data collected in a national travel survey. My thesis can be downloaded here. Below a little gif with the data (trips) I aimed to label. In total there were 18,414 trips of which 5,622 labelled. The prediction accuracy was 70% when distinguishing between 10 different modes.</description>
+    </item>
     
     <item>
       <title>Plausible Parameter Space, a R Shiny App</title>

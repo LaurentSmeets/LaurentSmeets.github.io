@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Transport mode prediction from GPS data</title>
+      <link>https://LaurentSmeets.github.io/projects/tranport-mode-prediction-from-gps-data/</link>
+      <pubDate>Mon, 01 Jul 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/projects/tranport-mode-prediction-from-gps-data/</guid>
+      <description>For my Master&amp;rsquo;s thesis I worked on machine learning solutions to transport mode prediction from GPS data collected in a national travel survey. My thesis can be downloaded here. Below a little gif with the data (trips) I aimed to label. In total there were 18,414 trips of which 5,622 labelled. The prediction accuracy was 70% when distinguishing between 10 different modes.</description>
+    </item>
+    
+    <item>
       <title>Bayesian Regression in Blavaan (Using Stan)</title>
       <link>https://LaurentSmeets.github.io/tutorials/blavaan-regression-stan/</link>
       <pubDate>Sun, 20 Jan 2019 12:41:05 -0500</pubDate>
