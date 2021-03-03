@@ -6,10 +6,30 @@
     <description>Recent content in Publications on Laurent Smeets</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jan 2019 23:41:05 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2020 23:41:05 -0500</lastBuildDate>
     
 	<atom:link href="https://LaurentSmeets.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spatial distribution of artisanal goldmining in Ghana: Using machine learning and Google Earth Engine to quantify conversion of vegetation to gold mines</title>
+      <link>https://LaurentSmeets.github.io/publications/goldmining_paper/</link>
+      <pubDate>Tue, 03 Nov 2020 23:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/publications/goldmining_paper/</guid>
+      <description>Abigail Barenblitt, Amanda Payton, David Lagomasino, Temilola Fatoyinbo, Kofi Asare, Kenneth Aidoo, Hugo Pigott, Charles Som, Omar Seidu, Laurent Smeets, al. ,Earth and Space Science Open Archive (2020)
+Gold mining has played a significant role in Ghana’s economy for centuries. Regulation of this industry has varied over time and while large-scale mining is prevalent in the country, prevalence of artisanal mining, or Galamsey has escalated throughout Ghana in recent years. These mines are not only harmful to human health due to the use of Mercury in the amalgamation process, but also leave a significant footprint on terrestrial ecosystems, degrading and destroying forested ecosystems in the region.</description>
+    </item>
+    
+    <item>
+      <title>Automatic Travel Mode Prediction in a National Travel Survey</title>
+      <link>https://LaurentSmeets.github.io/publications/cbs_discussion_paper/</link>
+      <pubDate>Tue, 03 Dec 2019 23:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/publications/cbs_discussion_paper/</guid>
+      <description>Laurent Smeets, Peter Lugtig, Barry Schouten, CBS discussion paper (2019)
+This paper shows the potential of automatic transport mode prediction in app-based surveys employing mobile device location sensors using machine learning. New relative to other studies is the use of a general population, official context of the survey, the size of the sample, the use of administrative registry data and number and types of features used.</description>
+    </item>
     
     <item>
       <title>Countries Visited Animated GIF</title>

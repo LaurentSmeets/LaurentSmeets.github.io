@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning on Laurent Smeets</title>
-    <link>https://LaurentSmeets.github.io/tags/machine-learning/</link>
-    <description>Recent content in Machine Learning on Laurent Smeets</description>
+    <title>Survey on Laurent Smeets</title>
+    <link>https://LaurentSmeets.github.io/tags/survey/</link>
+    <description>Recent content in Survey on Laurent Smeets</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Nov 2020 23:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://LaurentSmeets.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://LaurentSmeets.github.io/tags/survey/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -29,15 +29,6 @@ Gold mining has played a significant role in Ghana’s economy for centuries. Re
       <guid>https://LaurentSmeets.github.io/publications/cbs_discussion_paper/</guid>
       <description>Laurent Smeets, Peter Lugtig, Barry Schouten, CBS discussion paper (2019)
 This paper shows the potential of automatic transport mode prediction in app-based surveys employing mobile device location sensors using machine learning. New relative to other studies is the use of a general population, official context of the survey, the size of the sample, the use of administrative registry data and number and types of features used.</description>
-    </item>
-    
-    <item>
-      <title>Transport Mode Prediction from GPS Data</title>
-      <link>https://LaurentSmeets.github.io/projects/tranport-mode-prediction-from-gps-data/</link>
-      <pubDate>Mon, 01 Jul 2019 12:41:05 -0500</pubDate>
-      
-      <guid>https://LaurentSmeets.github.io/projects/tranport-mode-prediction-from-gps-data/</guid>
-      <description>For my Master&amp;rsquo;s thesis I worked on machine learning solutions to transport mode prediction from GPS data collected in a national travel survey. My thesis can be downloaded here. Below a little gif with the data (trips) I aimed to label. In total there were 18,414 trips of which 5,622 labelled. The prediction accuracy was 70% when distinguishing between 10 different modes.</description>
     </item>
     
   </channel>
